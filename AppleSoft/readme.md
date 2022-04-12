@@ -1,4 +1,4 @@
-#AppleSoft
+# AppleSoft
 AppleSoft is the version of MS-Basic provided for the Apple II computer. It is a very limited version of basic, which makes it difficult to work with. However, it is the first language I learned. Using that first Apple II computer, I was able to explore some of the math and computing concepts I learned in school. 
 
 I find returning to this platform to be enlightening. Writing in this crippled language is like working through a complex puzzle. My ability to work through a problem reflects some of the new skills I have acquired over time. Overall, writing for this platform is like completing a difficult crossword puzzle. It’s a mental challenge that provides a sense of accomplishment through success.
