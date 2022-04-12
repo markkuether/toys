@@ -1,0 +1,13 @@
+- Read All Data
+- Calculate IG for all columns.
+- Find column with highest IG = X
+- Break data into subset per categories within X
+- - Per Column category - Test Stop:
+- - - Do All data in subset belong to same category? (YES = STOP)
+- - - - Assign specific category.
+- - - Are other columns available to evaluate? (NO = STOP)
+- - - - Majority vote wins
+- - - Does category contain any samples? (NO = STOP)
+- - - - ?
+- - If Not stopped:
+- - - Test each subset for IG and repeat until all stopped
